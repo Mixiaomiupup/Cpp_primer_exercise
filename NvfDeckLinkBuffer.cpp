@@ -17,6 +17,7 @@ CNvfDeckLinkBufferAllocator::CNvfDeckLinkBufferAllocator(IDeckLink* pIDeckLink, 
 	m_nAudioChannelCount = nChannelCount;
 	m_nBitDepth = nBitDepth;
 }
+//
 what'r'
 //==========================================================================;
 hahaha
