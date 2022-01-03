@@ -18,7 +18,7 @@ CNvfDeckLinkBufferAllocator::CNvfDeckLinkBufferAllocator(IDeckLink* pIDeckLink, 
 	m_nBitDepth = nBitDepth;
 }
 //
-what'r'
+what'r'sajjsjj
 //==========================================================================;
 hahaha
 HRESULT CNvfDeckLinkBufferAllocator::NonDelegatingQueryInterface( REFIID in_rIID, void * * out_ppv )

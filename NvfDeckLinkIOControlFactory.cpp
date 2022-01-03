@@ -20,6 +20,7 @@
 #include "NvfDeckLinkIOPlaybackControl.h"
 #include "NvfDeckLinkIOCaptureControl.h"
 
+fsfafa
 extern TNvcSmartPtr<CDeckLinkReferenceClock> poReferenceClock;
 extern SNvcResolutionInfo g_sInputResolution;
 extern SNvcResolutionInfo g_sOutputResolution;
